@@ -1,6 +1,6 @@
 # From TCP to HTTP
 
-Implementation from TCP of a simple HTTP server prototype
+Implementation from TCP of a simple HTTP/1.1 server prototype
 
 ## To test it
 
